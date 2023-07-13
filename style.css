@@ -1,0 +1,110 @@
+.container{
+    width: 1400px;
+}
+.container-2{
+    width: 1370px;
+}
+.logosection{
+    background-color:#312397 ;
+    text-align: center;
+    padding: 20px 0;
+}
+.logosection img{
+    width: 70px;
+}
+.menusection{
+    background-color: #ff131b;
+    padding: 5px 0;
+    text-align: center;
+}
+.menusection ul li{
+    font-size: 25px;
+    color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    border-right: 1px solid white;
+}
+.menusection ul li:last-child{
+    border-right: none;
+}
+.herosection{
+    background-image: url(./pngtree-simple-creative-background-design-in-the-sky-backgroundcartoonlovelyplanetstarry-skyillustration-backgroundadvertising-image_58694.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 140px 0;
+    text-align: center;
+}
+.herosection h2{
+    color: white;
+    font-size: 40px;
+}
+.herosection p{
+    font-size: 16px;
+    color: white;
+}
+.herosection a{
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    background-color: #007f17;
+    padding: 5px 10px;
+    display: inline-block;
+
+}
+.herosection2{
+    background-image: url(./pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 140px 0;
+    text-align: center;
+}
+.herosection2 h2{
+    background-color:#007f17; 
+}
+.herosection2 p{
+    background-color:#fefe3f ;
+    width: 1100px;
+    margin: 0 auto;
+}
+.herosection2 a{
+    background-color: #000000;
+    margin:10px 0;
+    display: inline-block;
+    padding: 5px 10px;    
+    text-decoration: none; 
+}
+.serviceimg{
+    display: inline-block;
+    width: 20%;
+}
+.servicetext{
+    display: inline-block;
+    width: 60%;
+    margin-left: 60px;
+    margin-right: 60px;
+    vertical-align: bottom;
+}
+.servicechild img{
+    width: 100%;
+}
+.footersection{
+    background-color: #2f1c8b;
+    text-align: center;
+    padding: 20px;
+
+
+}
+.footersection ul li{
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid;
+    border-radius: 10px;
+    color: white;
+    
+}
+.servicesection{
+    background-color: #46b662;
+    
+}
+
+
